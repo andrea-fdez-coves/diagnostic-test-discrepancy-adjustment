@@ -36,7 +36,7 @@ source("run_discrepancy_analysis.R")
 ## References
 
 1. Fernández Coves A, et al. Prioritising research for biomarker diagnostics with multiple positions in the care pathway: a value of information study using discrepancy terms. [Pending publication]
-2. Strong M, Oakley JE, Brennan A. Estimating multiparameter partial expected value of perfect information from a probabilistic sensitivity analysis sample: a nonparametric regression approach. Med Decis Making. 2014;34(3):311-23.
+2. Strong, M., J.E. Oakley, and J. Chilcott, Managing structural uncertainty in health economic decision models: a discrepancy approach. Journal of the Royal Statistical Society: Series C (Applied Statistics), 2012. 61(1): p. 25-45.
 3. Valsecchi, M.E., D. Silbermins, N. de Rosa, S.L. Wong, and G.H. Lyman, Lymphatic mapping and sentinel lymph node biopsy in patients with melanoma: a meta-analysis. J Clin Oncol, 2011. 29(11): p. 1479-87.
 
 ## Contact
