@@ -54,6 +54,6 @@ source("run_discrepancy_analysis.R")
 
 For questions or issues, please open an issue on GitHub or contact:
 
-Andrea Fernández Coves  
-andrea.fernandez.coves@gmail.com
+Andrea Fernández Coves (email: andrea.fernandez.coves@gmail.com)
+
 ORCID: 0009-0000-7698-3849 
