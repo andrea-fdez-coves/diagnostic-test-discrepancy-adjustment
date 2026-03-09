@@ -6,17 +6,6 @@ Early economic evaluations of biomarker tests often involve substantial uncertai
 
 This repository contains R code adjusting diagnostic test sensitivity and specificity for potential systematic bias relative to literature reference values. The method incorporates **discrepancy terms** to quantify structural uncertainty when diagnostic accuracy parameters are derived from surrogate outcomes.
 
-## Methodology
-
-The discrepancy approach follows:
-
-**logit(Y) = logit(f(x)) + δ**
-
-where:
-- `f(x)` is the original function
-- `δ` is the discrepancy term
-- `Y` is the bias-adjusted function
-
 
 ## Repository Structure
 ```
